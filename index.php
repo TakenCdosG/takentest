@@ -12,3 +12,6 @@ as
 df as
 df
 sa
+
+
+destruye la tierra
